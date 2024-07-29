@@ -1,6 +1,0 @@
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\bin\Debug\Lesson_31.exe
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\bin\Debug\Lesson_31.pdb
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\obj\Debug\Lesson_31.csproj.AssemblyReference.cache
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\obj\Debug\Lesson_31.csproj.CoreCompileInputs.cache
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\obj\Debug\Lesson_31.exe
-D:\C#\HomeWork\Tema_1\HomeWorkCode\Lesson_31\obj\Debug\Lesson_31.pdb
